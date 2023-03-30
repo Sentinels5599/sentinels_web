@@ -14,3 +14,10 @@
 .ahhh{
     list-style-type: none;
 }
+#list{
+    float: inline-start;
+}
+
+li{
+    list-style: none;
+}

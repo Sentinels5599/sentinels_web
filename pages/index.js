@@ -11,20 +11,15 @@ export default function Home() {
         
       </Head>
       <main>
-        <nav class = "navbar" >
-          <div id = "home">
-            Sentinels
-          </div>
-          <div id = "subPages"> 
-            asdf
-          </div>
-          <div class="ahhh">
-            <li id="list"><a>Page 1</a></li>
-            <li id="list"><a>Page 2</a></li>
-            <li id="list"><a>Page 3</a></li>
-            <li id="list"><a>Page 4</a></li>
-          </div>
-        </nav>
+          <nav class="navbar">
+            <li id="home"><a>The Sentinels</a></li>
+            <li id="list"><a>Team</a></li>
+            <li id="list"><a>Robots</a></li>
+            <li id="list"><a>Blogs</a></li>
+            <li id="list"><a>Sponsors</a></li>
+            <li id="list"><a>Resources</a></li>
+            <li id="list"><a>Contact us</a></li>
+          </nav>
         
         <div>
           <h1 class="Heading">News heading</h1>
