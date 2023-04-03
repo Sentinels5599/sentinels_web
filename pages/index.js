@@ -14,6 +14,7 @@ export default function Home() {
           <nav class="navbar">
             <li id="home"><a>The Sentinels</a></li>
             <li id="list"><a>Team</a></li>
+            
             <li id="list"><a>Robots</a></li>
             <li id="list"><a>Blogs</a></li>
             <li id="list"><a>Sponsors</a></li>
